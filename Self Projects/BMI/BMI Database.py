@@ -1,0 +1,1 @@
+people =['anjuvh', 'cj', 'over', 'losis']weight =[46, 100, 200, 62.0]hegiht =[1.68, 1.7, 1.7, 1.64]
